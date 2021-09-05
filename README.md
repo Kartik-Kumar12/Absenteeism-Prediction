@@ -24,6 +24,7 @@ Model is build according the requirement and problem of the dataset.
 <p align="center">
 <img src = "readmeImages/d1.PNG" width ="300"><img src = "readmeImages/d2.PNG" width ="300">
 </p>
+
 ## Drawing Insights 
 This is the most important part of the project , identifying the meaningful intuitions.
 <p align="center">
